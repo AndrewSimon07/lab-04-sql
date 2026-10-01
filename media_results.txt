@@ -1,0 +1,3 @@
+username	title	content
+alex123	My First Post	Hello everyone!
+jordan22	Weekend Plans	Looking forward to the weekend.

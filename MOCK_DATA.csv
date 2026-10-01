@@ -1,0 +1,201 @@
+id,group,color,ripe,calories,origin
+1,apples,Green,no,300,Longshan
+2,cherries,Indigo,no,300,Rybnoye
+3,apples,Goldenrod,no,100,Manaquiri
+4,cherries,Orange,no,200,Congkar
+5,,Fuscia,no,200,Zimmi
+6,apples,Blue,no,200,Koumra
+7,apples,Orange,yes,400,Grębków
+8,,Maroon,no,200,Xiping
+9,cherries,Turquoise,no,400,Chiri-Yurt
+10,cherries,Aquamarine,yes,400,Kota Bharu
+11,,Aquamarine,yes,200,Manicahan
+12,bananas,Blue,no,400,Gembu
+13,cherries,Teal,yes,300,Houk
+14,,Maroon,yes,300,Doblas
+15,apples,Green,no,200,Bastos
+16,apples,Violet,yes,100,Songdong
+17,cherries,Aquamarine,yes,400,Cayambe
+18,cherries,Aquamarine,yes,100,Dafang
+19,cherries,Violet,no,100,Kunduz
+20,apples,Fuscia,no,100,Severnoye
+21,cherries,Purple,no,100,Xingdian
+22,bananas,Indigo,no,300,Falun
+23,cherries,Crimson,yes,400,Khe Tre
+24,apples,Aquamarine,yes,200,Sinilian First
+25,apples,Violet,yes,100,Eskilstuna
+26,cherries,Fuscia,no,100,Lewograran
+27,apples,Khaki,yes,200,Ceelbuur
+28,bananas,,no,300,Sendangkemulian
+29,bananas,Yellow,no,400,Jaga
+30,bananas,Aquamarine,yes,200,Padasono
+31,cherries,Fuscia,no,400,Sirib
+32,cherries,Indigo,no,300,Tāybād
+33,apples,Aquamarine,yes,400,Baculin
+34,bananas,Turquoise,no,300,Sainyabuli
+35,apples,Puce,yes,200,Al Jawādīyah
+36,bananas,Pink,yes,300,Zadní Mostek
+37,bananas,Goldenrod,yes,300,Mandeman Daya
+38,apples,Pink,no,300,Rendian
+39,apples,,no,200,Tubod
+40,cherries,Blue,yes,400,Желино
+41,,Red,no,100,Church End
+42,bananas,Violet,yes,300,Huanan
+43,cherries,Red,no,300,Geoktschai
+44,bananas,Maroon,no,100,Gopaan
+45,bananas,Orange,no,200,Livramento
+46,apples,Orange,yes,200,Bacabal
+47,bananas,,no,100,Ciparay
+48,cherries,Crimson,yes,400,Guaranda
+49,apples,Violet,no,100,Greenville
+50,cherries,,yes,200,Truskavets
+51,bananas,Aquamarine,yes,100,Kurovskoye
+52,cherries,Green,yes,400,Banjar Batuaji Kaja
+53,bananas,Pink,no,100,Leeuwarden
+54,apples,Turquoise,yes,300,Cigagade
+55,cherries,Khaki,no,,Yeniköy
+56,bananas,Fuscia,yes,100,Resende
+57,bananas,Fuscia,no,,Zwierzyń
+58,bananas,Red,yes,100,Majagual
+59,cherries,Aquamarine,no,300,Weekaka
+60,cherries,Yellow,yes,100,Salinungan Proper
+61,cherries,Crimson,yes,300,Avelinha
+62,apples,Crimson,no,400,Huaxian
+63,cherries,Green,no,,Kuala Lumpur
+64,cherries,Fuscia,no,200,Tarvasjoki
+65,bananas,Turquoise,no,300,Viimsi
+66,cherries,Goldenrod,yes,100,Yangjiang
+67,cherries,Blue,no,100,Marseille
+68,apples,Red,no,400,Kramfors
+69,,Red,no,200,Jiangkouxu
+70,apples,Puce,yes,100,Třešť
+71,apples,Turquoise,yes,400,Vila Nova
+72,bananas,Violet,no,300,Đắk Mâm
+73,bananas,Yellow,yes,100,Xinfeng
+74,bananas,Turquoise,yes,300,Dongchengyuan
+75,apples,Orange,yes,400,Riofrío
+76,cherries,Pink,yes,100,Bayuwan
+77,apples,Fuscia,no,400,Tuanshansi
+78,cherries,Khaki,no,200,Turus
+79,apples,,no,200,Giado
+80,cherries,Purple,yes,400,Qizili
+81,apples,Crimson,yes,100,Nabeul
+82,bananas,Crimson,yes,200,Milicz
+83,cherries,Violet,no,100,Suchań
+84,apples,Blue,no,100,Nara
+85,apples,Khaki,no,100,Itaparica
+86,cherries,Mauv,yes,400,Genova
+87,bananas,Crimson,no,200,Yamaguchi-shi
+88,cherries,Green,yes,300,Cimarelang
+89,bananas,Pink,no,,Oulmes
+90,bananas,Mauv,yes,100,Umuahia
+91,apples,Puce,no,100,Lilio
+92,bananas,Maroon,no,200,Lidingö
+93,bananas,Red,yes,100,Manhan
+94,cherries,Turquoise,yes,100,Pacajus
+95,bananas,Turquoise,no,400,Brampton
+96,cherries,Khaki,yes,200,Vilhelmina
+97,cherries,Purple,no,200,Karatau
+98,cherries,Green,yes,100,Wolongquan
+99,bananas,Red,no,300,Paizhou
+100,bananas,Purple,no,100,Zavidovo
+101,bananas,Red,yes,400,Paço de Arcos
+102,cherries,Mauv,yes,300,Luohe
+103,apples,Indigo,yes,400,Vil’nyans’k
+104,apples,Blue,yes,100,Řečany nad Labem
+105,cherries,Green,no,400,Tambarangan
+106,bananas,Orange,yes,200,Penelas
+107,cherries,Puce,yes,300,San Ramon
+108,bananas,Violet,no,300,Qelëz
+109,cherries,Puce,yes,200,Mörön
+110,apples,Violet,no,100,Lyon
+111,apples,Blue,no,100,Tomar
+112,apples,Maroon,yes,300,Wringinsari
+113,bananas,Blue,no,300,Mosina
+114,cherries,Green,yes,100,Guzhuyingzi
+115,apples,Goldenrod,no,300,Buracan
+116,apples,Aquamarine,no,400,Tianqian
+117,,Red,no,200,Laagri
+118,bananas,Fuscia,no,,Podedwórze
+119,apples,Yellow,no,300,Taubaté
+120,bananas,Crimson,yes,200,Vievis
+121,bananas,Purple,no,300,Zhoutie
+122,,Fuscia,no,300,Khandagayty
+123,cherries,Red,no,300,Ngoc Hon Doc
+124,bananas,Indigo,yes,400,Seka
+125,bananas,Khaki,no,200,Nevel’
+126,cherries,,no,100,Halimpu
+127,apples,Aquamarine,no,200,Jazovo
+128,cherries,Aquamarine,no,300,Västerås
+129,bananas,Goldenrod,yes,100,Mtimbira
+130,bananas,Puce,no,300,Balaklava
+131,apples,Khaki,yes,400,Mongar
+132,apples,Aquamarine,yes,300,Djibouti
+133,bananas,Green,no,100,Eskilstuna
+134,bananas,Turquoise,no,200,Nueva Italia
+135,cherries,Turquoise,no,200,Leluo
+136,cherries,Mauv,yes,300,Krajan Dua Putukrejo
+137,bananas,Turquoise,yes,400,Lille
+138,apples,,yes,300,Jiamaogong
+139,bananas,Yellow,no,200,Strawczyn
+140,apples,Purple,yes,300,Dagar
+141,cherries,Blue,no,100,Kańczuga
+142,bananas,Yellow,no,100,Jabon
+143,bananas,Turquoise,no,,Gareba
+144,bananas,Yellow,yes,400,Mīr Bachah Kōṯ
+145,bananas,Aquamarine,no,,Mardā
+146,bananas,Red,yes,300,Lin’an
+147,bananas,Indigo,no,200,Arjasari
+148,apples,Indigo,no,200,Sonsorol Village
+149,cherries,Yellow,yes,200,Cigembong
+150,cherries,Orange,no,400,Łubnice
+151,cherries,Yellow,no,100,Curuan
+152,bananas,Green,yes,,Wushan
+153,apples,Puce,no,300,Tromsø
+154,bananas,Green,yes,100,Milwaukee
+155,apples,Maroon,yes,200,San Miguel
+156,bananas,Aquamarine,yes,100,San Felipe
+157,apples,Fuscia,yes,300,Aţ Ţawīlah
+158,bananas,Violet,no,200,Adare
+159,bananas,Blue,yes,200,Loppi
+160,bananas,Crimson,yes,200,Carriedo
+161,bananas,Indigo,no,400,Bagulin
+162,cherries,Khaki,yes,400,Ya’ngan
+163,bananas,Crimson,no,400,Annacotty
+164,apples,Violet,yes,400,Mapinrea
+165,cherries,Green,no,400,Blora
+166,apples,Mauv,no,200,Tundagan
+167,cherries,Orange,yes,400,Rongdoi
+168,bananas,Mauv,no,100,Lota
+169,,Purple,yes,100,Mata Grande
+170,bananas,Green,yes,300,Shuangyang
+171,bananas,Crimson,no,400,Landvetter
+172,,Blue,no,400,Uzlovaya
+173,cherries,Maroon,yes,100,Padasono
+174,cherries,Blue,yes,400,Burgas
+175,apples,Blue,no,300,El Tambo
+176,cherries,Orange,yes,100,Nuevitas
+177,apples,Maroon,no,200,Bosanski Brod
+178,apples,Indigo,yes,300,Mrągowo
+179,bananas,Puce,yes,400,La Unión
+180,bananas,Khaki,yes,400,Kyrylivka
+181,bananas,,no,300,Pavlysh
+182,cherries,Crimson,yes,200,Grygov
+183,apples,Green,yes,200,Leping
+184,apples,Maroon,yes,400,Phù Cát
+185,cherries,Fuscia,yes,300,Watergrasshill
+186,cherries,Yellow,yes,200,Białaczów
+187,apples,Fuscia,no,300,Plottier
+188,bananas,Crimson,yes,300,Mishima
+189,apples,Pink,no,200,Rahayu
+190,bananas,Khaki,yes,100,Tamontaka
+191,,,no,300,Igbaras
+192,cherries,Orange,no,300,Wādī as Sīr
+193,apples,Mauv,no,200,Sirājganj
+194,bananas,Turquoise,no,100,San Sebastian
+195,cherries,Mauv,yes,300,San Antonio
+196,apples,Indigo,yes,100,Tsuyama
+197,apples,Goldenrod,yes,300,Carmen
+198,apples,,no,,Swords
+199,apples,Pink,no,300,Chigoré
+200,cherries,Fuscia,yes,100,Kotkot
